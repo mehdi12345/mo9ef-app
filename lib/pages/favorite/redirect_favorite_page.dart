@@ -1,0 +1,25 @@
+import 'package:flutter/material.dart';
+import 'package:moqefapp/pages/favorite/favorite_page.dart';
+import 'package:moqefapp/pages/should_auth_page.dart';
+import 'package:moqefapp/providers/auth_provider.dart';
+import 'package:provider/provider.dart';
+
+class RedirectFavoritePage extends StatefulWidget {
+  const RedirectFavoritePage({Key? key}) : super(key: key);
+
+  @override
+  State<RedirectFavoritePage> createState() => _RedirectFavoritePageState();
+}
+
+class _RedirectFavoritePageState extends State<RedirectFavoritePage> {
+  @override
+  Widget build(BuildContext context) {
+    return Consumer<AuthProvider>(builder: (context, auth, _) {
+      if (auth.authClient != null) {
+        return const FavoritePage();
+      } else {
+        return const ShouldAuthPage();
+      }
+    });
+  }
+}

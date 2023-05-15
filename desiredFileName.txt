@@ -1,0 +1,9 @@
+{
+  "ar": [
+    "machine_ouer"
+  ],
+
+  "fr": [
+    "machine_ouer"
+  ]
+}

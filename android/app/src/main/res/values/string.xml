@@ -1,0 +1,9 @@
+<resources>
+    <string name="fb_app_name">Mo9ef.ma</string>
+    <string name="fb_app_id">973316853333594</string>
+    <string name="fb_login_protocol_scheme">fb973316853333594</string>
+    <string name="fb_client_token">dd583779a41b0155fe0a8cfb30a4a107</string>
+    <string name="package_name">com.tingisweb.moqefapp1</string>
+    <string name="custom_url_scheme">com.tingisweb.moqefapp1</string>
+    <string name="default_notification_channel_id">com.tingisweb.moqefapp1.urgent</string>
+</resources>

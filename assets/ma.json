@@ -1,0 +1,968 @@
+[
+  {
+    "city": "Casablanca",
+    "lat": 33.5992,
+    "lng": -7.62,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "El Kelaa des Srarhna",
+    "lat": 32.05,
+    "lng": -7.4,
+    "region": "Marrakech-Safi"
+  },
+  {
+    "city": "Fès",
+    "lat": 34.0433,
+    "lng": -5.0033,
+    "region": "Fès-Meknès"
+  },
+  {
+    "city": "Tangier",
+    "lat": 35.7767,
+    "lng": -5.8039,
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "city": "Marrakech",
+    "lat": 31.6295,
+    "lng": -7.9811,
+    "region": "Marrakech-Safi"
+  },
+  {
+    "city": "Sale",
+    "lat": 34.05,
+    "lng": -6.8167,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Rabat",
+    "lat": 34.0253,
+    "lng": -6.8361,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Meknès",
+    "lat": 33.8833,
+    "lng": -5.55,
+    "region": "Fès-Meknès"
+  },
+  {
+    "city": "Kenitra",
+    "lat": 34.25,
+    "lng": -6.5833,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Agadir",
+    "lat": 30.4167,
+    "lng": -9.5833,
+    "region": "Souss-Massa"
+  },
+  {
+    "city": "Oujda-Angad",
+    "lat": 34.69,
+    "lng": -1.91,
+    "region": "Oriental"
+  },
+  {
+    "city": "Tétouan",
+    "lat": 35.5667,
+    "lng": -5.3667,
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "city": "Taourirt",
+    "lat": 34.41,
+    "lng": -2.89,
+    "region": "Oriental"
+  },
+  {
+    "city": "Temara",
+    "lat": 33.9234,
+    "lng": -6.9076,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Safi",
+    "lat": 32.2833,
+    "lng": -9.2333,
+    "region": "Marrakech-Safi"
+  },
+  {
+    "city": "Laâyoune",
+    "lat": 27.15,
+    "lng": -13.2,
+    "region": "Laâyoune-Sakia El Hamra"
+  },
+  {
+    "city": "Mohammedia",
+    "lat": 33.6833,
+    "lng": -7.3833,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Khouribga",
+    "lat": 32.88,
+    "lng": -6.9,
+    "region": "Béni Mellal-Khénifra"
+  },
+  {
+    "city": "Béni Mellal",
+    "lat": 32.3394,
+    "lng": -6.3608,
+    "region": "Béni Mellal-Khénifra"
+  },
+  {
+    "city": "El Jadida",
+    "lat": 33.2566,
+    "lng": -8.5025,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Ait Melloul",
+    "lat": 30.3342,
+    "lng": -9.4972,
+    "region": "Souss-Massa"
+  },
+  {
+    "city": "Nador",
+    "lat": 35.1667,
+    "lng": -2.9333,
+    "region": "Oriental"
+  },
+  {
+    "city": "Taza",
+    "lat": 34.2144,
+    "lng": -4.0088,
+    "region": "Fès-Meknès"
+  },
+  {
+    "city": "Settat",
+    "lat": 33.0023,
+    "lng": -7.6198,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Barrechid",
+    "lat": 33.27,
+    "lng": -7.5872,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Al Khmissat",
+    "lat": 33.81,
+    "lng": -6.06,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Inezgane",
+    "lat": 30.3658,
+    "lng": -9.5381,
+    "region": "Souss-Massa"
+  },
+  {
+    "city": "Ksar El Kebir",
+    "lat": 35,
+    "lng": -5.9,
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "city": "Larache",
+    "lat": 35.1833,
+    "lng": -6.15,
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "city": "Guelmim",
+    "lat": 28.9833,
+    "lng": -10.0667,
+    "region": "Guelmim-Oued Noun"
+  },
+  {
+    "city": "Khénifra",
+    "lat": 32.93,
+    "lng": -5.66,
+    "region": "Béni Mellal-Khénifra"
+  },
+  {
+    "city": "Berkane",
+    "lat": 34.9167,
+    "lng": -2.3167,
+    "region": "Oriental"
+  },
+  {
+    "city": "Bouskoura",
+    "lat": 33.4489,
+    "lng": -7.6486,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Al Fqih Ben Salah",
+    "lat": 32.5,
+    "lng": -6.7,
+    "region": "Béni Mellal-Khénifra"
+  },
+  {
+    "city": "Ouad Zem",
+    "lat": 32.86,
+    "lng": -6.56,
+    "region": "Béni Mellal-Khénifra"
+  },
+  {
+    "city": "Sidi Slimane",
+    "lat": 34.26,
+    "lng": -5.93,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Errachidia",
+    "lat": 31.9319,
+    "lng": -4.4244,
+    "region": "Drâa-Tafilalet"
+  },
+  {
+    "city": "Guercif",
+    "lat": 34.23,
+    "lng": -3.36,
+    "region": "Oriental"
+  },
+  {
+    "city": "Oulad Teïma",
+    "lat": 30.4,
+    "lng": -9.21,
+    "region": "Souss-Massa"
+  },
+  {
+    "city": "Dakhla",
+    "lat": 23.7141,
+    "lng": -15.9368,
+    "region": ""
+  },
+  {
+    "city": "Ben Guerir",
+    "lat": 32.23,
+    "lng": -7.95,
+    "region": "Marrakech-Safi"
+  },
+  {
+    "city": "Wislane",
+    "lat": 30.2167,
+    "lng": -8.3833,
+    "region": "Souss-Massa"
+  },
+  {
+    "city": "Tiflet",
+    "lat": 33.9,
+    "lng": -6.33,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Lqliâa",
+    "lat": 30.2942,
+    "lng": -9.4544,
+    "region": "Souss-Massa"
+  },
+  {
+    "city": "Taroudant",
+    "lat": 30.4711,
+    "lng": -8.8778,
+    "region": "Souss-Massa"
+  },
+  {
+    "city": "Sefrou",
+    "lat": 33.83,
+    "lng": -4.83,
+    "region": "Fès-Meknès"
+  },
+  {
+    "city": "Essaouira",
+    "lat": 31.513,
+    "lng": -9.7687,
+    "region": "Marrakech-Safi"
+  },
+  {
+    "city": "Fnidq",
+    "lat": 35.85,
+    "lng": -5.35,
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "city": "Ait Ali",
+    "lat": 30.1739,
+    "lng": -9.4881,
+    "region": "Souss-Massa"
+  },
+  {
+    "city": "Sidi kacem",
+    "lat": 34.21,
+    "lng": -5.7,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Tiznit",
+    "lat": 29.7,
+    "lng": -9.7269,
+    "region": "Souss-Massa"
+  },
+  {
+    "city": "Moulay Abdallah",
+    "lat": 33.1978,
+    "lng": -8.5883,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Tan-Tan",
+    "lat": 28.4333,
+    "lng": -11.1,
+    "region": "Guelmim-Oued Noun"
+  },
+  {
+    "city": "Ouarzazate",
+    "lat": 30.9167,
+    "lng": -6.9167,
+    "region": "Drâa-Tafilalet"
+  },
+  {
+    "city": "Youssoufia",
+    "lat": 32.25,
+    "lng": -8.53,
+    "region": "Marrakech-Safi"
+  },
+  {
+    "city": "Saada",
+    "lat": 31.6258,
+    "lng": -8.1028,
+    "region": "Marrakech-Safi"
+  },
+  {
+    "city": "Martil",
+    "lat": 35.61,
+    "lng": -5.27,
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "city": "Aïn Harrouda",
+    "lat": 33.6372,
+    "lng": -7.4483,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Skhirate",
+    "lat": 33.85,
+    "lng": -7.03,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Ouezzane",
+    "lat": 34.8,
+    "lng": -5.6,
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "city": "Sidi Yahya Zaer",
+    "lat": 33.8261,
+    "lng": -6.9039,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Benslimane",
+    "lat": 33.6122,
+    "lng": -7.1211,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Al Hoceïma",
+    "lat": 35.2472,
+    "lng": -3.9322,
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "city": "Beni Enzar",
+    "lat": 35.2569,
+    "lng": -2.9342,
+    "region": "Oriental"
+  },
+  {
+    "city": "M’diq",
+    "lat": 35.6857,
+    "lng": -5.3251,
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "city": "Sidi Bennour",
+    "lat": 32.655,
+    "lng": -8.4292,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Midalt",
+    "lat": 32.68,
+    "lng": -4.74,
+    "region": "Drâa-Tafilalet"
+  },
+  {
+    "city": "Azrou",
+    "lat": 33.43,
+    "lng": -5.21,
+    "region": "Fès-Meknès"
+  },
+  {
+    "city": "Ain El Aouda",
+    "lat": 33.8111,
+    "lng": -6.7922,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Beni Yakhlef",
+    "lat": 33.6681,
+    "lng": -7.2514,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Semara",
+    "lat": 26.7333,
+    "lng": -11.6833,
+    "region": "Dakhla-Oued Dahab"
+  },
+  {
+    "city": "Darwa",
+    "lat": 33.4167,
+    "lng": -7.5333,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Al Aaroui",
+    "lat": 35.0104,
+    "lng": -3.0073,
+    "region": "Oriental"
+  },
+  {
+    "city": "Kasbat Tadla",
+    "lat": 32.6,
+    "lng": -6.26,
+    "region": "Béni Mellal-Khénifra"
+  },
+  {
+    "city": "Bejaad",
+    "lat": 32.76,
+    "lng": -6.4,
+    "region": "Béni Mellal-Khénifra"
+  },
+  {
+    "city": "Jerada",
+    "lat": 34.31,
+    "lng": -2.16,
+    "region": "Oriental"
+  },
+  {
+    "city": "chefchaouen",
+    "lat": 35.1714,
+    "lng": -5.2697,
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "city": "Mrirt",
+    "lat": 33.1667,
+    "lng": -5.5667,
+    "region": "Béni Mellal-Khénifra"
+  },
+  {
+    "city": "Sidi Mohamed Lahmar",
+    "lat": 34.7167,
+    "lng": -6.2667,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "tinghir",
+    "lat": 31.5147,
+    "lng": -5.5328,
+    "region": "Drâa-Tafilalet"
+  },
+  {
+    "city": "El Aïoun",
+    "lat": 34.5853,
+    "lng": -2.5056,
+    "region": "Oriental"
+  },
+  {
+    "city": "Azemmour",
+    "lat": 33.2833,
+    "lng": -8.3333,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Temsia",
+    "lat": 30.3633,
+    "lng": -9.4144,
+    "region": "Souss-Massa"
+  },
+  {
+    "city": "Zoumi",
+    "lat": 34.8032,
+    "lng": -5.3446,
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "city": "Laouamra",
+    "lat": 35.0656,
+    "lng": -6.0939,
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "city": "Zagora",
+    "lat": 30.3316,
+    "lng": -5.8376,
+    "region": "Drâa-Tafilalet"
+  },
+  {
+    "city": "Ait Ourir",
+    "lat": 31.5644,
+    "lng": -7.6628,
+    "region": "Marrakech-Safi"
+  },
+  {
+    "city": "Sidi Bibi",
+    "lat": 30.2333,
+    "lng": -9.5333,
+    "region": "Souss-Massa"
+  },
+  {
+    "city": "Azilal",
+    "lat": 31.96,
+    "lng": -6.56,
+    "region": "Béni Mellal-Khénifra"
+  },
+  {
+    "city": "Sidi Yahia El Gharb",
+    "lat": 34.3058,
+    "lng": -6.3058,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Biougra",
+    "lat": 30.2144,
+    "lng": -9.3708,
+    "region": "Souss-Massa"
+  },
+  {
+    "city": "Taounate",
+    "lat": 34.5358,
+    "lng": -4.64,
+    "region": "Fès-Meknès"
+  },
+  {
+    "city": "Bouznika",
+    "lat": 33.7894,
+    "lng": -7.1597,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Aourir",
+    "lat": 30.4833,
+    "lng": -9.6333,
+    "region": "Souss-Massa"
+  },
+  {
+    "city": "Zaïo",
+    "lat": 34.9396,
+    "lng": -2.7334,
+    "region": "Oriental"
+  },
+  {
+    "city": "Aguelmous",
+    "lat": 33.15,
+    "lng": -5.8333,
+    "region": "Béni Mellal-Khénifra"
+  },
+  {
+    "city": "El Hajeb",
+    "lat": 33.6928,
+    "lng": -5.3711,
+    "region": "Fès-Meknès"
+  },
+  {
+    "city": "Mnasra",
+    "lat": 34.7667,
+    "lng": -5.5167,
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "city": "Mediouna",
+    "lat": 33.45,
+    "lng": -7.51,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Zeghanghane",
+    "lat": 35.1575,
+    "lng": -3.0017,
+    "region": "Oriental"
+  },
+  {
+    "city": "Imzouren",
+    "lat": 35.1448,
+    "lng": -3.8505,
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "city": "Loudaya",
+    "lat": 31.6507,
+    "lng": -8.3021,
+    "region": "Marrakech-Safi"
+  },
+  {
+    "city": "Oulad Zmam",
+    "lat": 32.35,
+    "lng": -6.6333,
+    "region": "Tadla-Azilal"
+  },
+  {
+    "city": "Bou Ahmed",
+    "lat": 33.1119,
+    "lng": -7.4058,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Tit Mellil",
+    "lat": 33.5581,
+    "lng": -7.4858,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Arbaoua",
+    "lat": 34.9,
+    "lng": -5.9167,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Douar Oulad Hssine",
+    "lat": 33.0681,
+    "lng": -8.5108,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Bahhara oulad ayad ",
+    "lat": 34.7703,
+    "lng": -6.3047,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Mechraa Bel Ksiri",
+    "lat": 34.5787,
+    "lng": -5.963,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Mograne",
+    "lat": 34.4167,
+    "lng": -6.4333,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Dar Ould Zidouh",
+    "lat": 32.3167,
+    "lng": -6.9,
+    "region": "Béni Mellal-Khénifra"
+  },
+  {
+    "city": "Asilah",
+    "lat": 35.4667,
+    "lng": -6.0333,
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "city": "Demnat",
+    "lat": 31.7311,
+    "lng": -7.0361,
+    "region": "Béni Mellal-Khénifra"
+  },
+  {
+    "city": "Lalla Mimouna",
+    "lat": 34.85,
+    "lng": -6.0669,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Fritissa",
+    "lat": 33.6167,
+    "lng": -3.55,
+    "region": "Fès-Meknès"
+  },
+  {
+    "city": "Arfoud",
+    "lat": 31.4361,
+    "lng": -4.2328,
+    "region": "Drâa-Tafilalet"
+  },
+  {
+    "city": "Tameslouht",
+    "lat": 31.5,
+    "lng": -8.1,
+    "region": "Marrakech-Safi"
+  },
+  {
+    "city": "Bou Arfa",
+    "lat": 32.531,
+    "lng": -1.9631,
+    "region": "Oriental"
+  },
+  {
+    "city": "Sidi Smail",
+    "lat": 32.8167,
+    "lng": -8.5,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Taza",
+    "lat": 35.0639,
+    "lng": -5.2025,
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "city": "Souk et Tnine Jorf el Mellah",
+    "lat": 34.4833,
+    "lng": -5.5169,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Mehdya",
+    "lat": 34.2557,
+    "lng": -6.6745,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Oulad Hammou",
+    "lat": 33.25,
+    "lng": -8.3347,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Douar Oulad Aj-jabri",
+    "lat": 32.2567,
+    "lng": -6.7839,
+    "region": "Béni Mellal-Khénifra"
+  },
+  {
+    "city": "Aïn Taoujdat",
+    "lat": 33.9333,
+    "lng": -5.2167,
+    "region": "Fès-Meknès"
+  },
+  {
+    "city": "Dar Bel Hamri",
+    "lat": 34.1889,
+    "lng": -5.9697,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Chichaoua",
+    "lat": 31.5333,
+    "lng": -8.7667,
+    "region": "Marrakech-Safi"
+  },
+  {
+    "city": "Tahla",
+    "lat": 34.0476,
+    "lng": -4.4289,
+    "region": "Fès-Meknès"
+  },
+  {
+    "city": "Ait Bellaa",
+    "lat": 30.0314,
+    "lng": -9.5542,
+    "region": "Souss-Massa"
+  },
+  {
+    "city": "Oulad Yaïch",
+    "lat": 32.4167,
+    "lng": -6.3333,
+    "region": "Béni Mellal-Khénifra"
+  },
+  {
+    "city": "Ksenia",
+    "lat": 34.2933,
+    "lng": -6.1594,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Tamorot",
+    "lat": 34.9333,
+    "lng": -4.7833,
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "city": "Moulay Bousselham",
+    "lat": 34.8786,
+    "lng": -6.2933,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Sabaa Aiyoun",
+    "lat": 33.8969,
+    "lng": -5.3611,
+    "region": "Fès-Meknès"
+  },
+  {
+    "city": "Bourdoud",
+    "lat": 34.5922,
+    "lng": -4.5492,
+    "region": "Fès-Meknès"
+  },
+  {
+    "city": "Aït Faska",
+    "lat": 31.5058,
+    "lng": -7.7161,
+    "region": "Marrakech-Safi"
+  },
+  {
+    "city": "Boureït",
+    "lat": 34.9833,
+    "lng": -4.9167,
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "city": "Lamzoudia",
+    "lat": 31.5833,
+    "lng": -8.4833,
+    "region": "Marrakech-Safi"
+  },
+  {
+    "city": "Oulad Said",
+    "lat": 32.632,
+    "lng": -8.8456,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Missour",
+    "lat": 33.05,
+    "lng": -3.9908,
+    "region": "Fès-Meknès"
+  },
+  {
+    "city": "Ain Aicha",
+    "lat": 34.4833,
+    "lng": -4.7,
+    "region": "Fès-Meknès"
+  },
+  {
+    "city": "Zawyat Cheïkh",
+    "lat": 32.6541,
+    "lng": -5.9214,
+    "region": "Béni Mellal-Khénifra"
+  },
+  {
+    "city": "Bouknadel",
+    "lat": 34.1245,
+    "lng": -6.748,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "El Ghiate",
+    "lat": 32.0331,
+    "lng": -9.1625,
+    "region": "Marrakech-Safi"
+  },
+  {
+    "city": "Safsaf",
+    "lat": 34.5581,
+    "lng": -6.0078,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Ouaoula",
+    "lat": 31.8667,
+    "lng": -6.75,
+    "region": "Béni Mellal-Khénifra"
+  },
+  {
+    "city": "Douar Olad Salem",
+    "lat": 32.8739,
+    "lng": -8.8589,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Oulad Tayeb",
+    "lat": 33.9598,
+    "lng": -4.9954,
+    "region": "Fès-Meknès"
+  },
+  {
+    "city": "Echemmaia",
+    "lat": 32.0705,
+    "lng": -8.6532,
+    "region": "Marrakech-Safi"
+  },
+  {
+    "city": "Oulad Barhil",
+    "lat": 30.6388,
+    "lng": -8.4732,
+    "region": "Souss-Massa"
+  },
+  {
+    "city": "Aïn Dfali",
+    "lat": 33.95,
+    "lng": -4.45,
+    "region": "Fès-Meknès"
+  },
+  {
+    "city": "Setti Fatma",
+    "lat": 31.2256,
+    "lng": -7.6758,
+    "region": "Marrakech-Safi"
+  },
+  {
+    "city": "Skoura",
+    "lat": 31.0672,
+    "lng": -6.5397,
+    "region": "Drâa-Tafilalet"
+  },
+  {
+    "city": "Douar Ouled Ayad",
+    "lat": 32.4167,
+    "lng": -7.1,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Zawyat Nwaser",
+    "lat": 33.3611,
+    "lng": -7.6114,
+    "region": "Casablanca-Settat"
+  },
+  {
+    "city": "Khenichet-sur Ouerrha",
+    "lat": 34.4383,
+    "lng": -5.6844,
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "city": "Ayt Mohamed",
+    "lat": 32.5667,
+    "lng": -6.9833,
+    "region": "Béni Mellal-Khénifra"
+  },
+  {
+    "city": "Gueznaia",
+    "lat": 35.72,
+    "lng": -5.894,
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "city": "Oulad Hassoune",
+    "lat": 31.6503,
+    "lng": -7.8361,
+    "region": "Marrakech-Safi"
+  },
+  {
+    "city": "Bni Frassen",
+    "lat": 34.3819,
+    "lng": -4.3761,
+    "region": "Fès-Meknès"
+  },
+  {
+    "city": "Zaouiet Al Bour",
+    "lat": 30.6748,
+    "lng": -8.1742,
+    "region": "Souss-Massa"
+  }
+]
